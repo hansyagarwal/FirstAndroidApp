@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidApp</string>
+    <string name="label">This is a label string</string>
 </resources>
