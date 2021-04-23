@@ -9,6 +9,7 @@ import android.widget.Toast
 class MainActivity : AppCompatActivity() {
 
     val TAG = "MainActivity"
+    val msg = "hello"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
